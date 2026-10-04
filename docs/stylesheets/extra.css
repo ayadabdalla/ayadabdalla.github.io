@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&display=swap");
+
+/* Site name in the header, in an Andalusian manuscript style */
+.md-header__title .md-header__topic:first-child {
+  font-family: "Aref Ruqaa", serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Page headings across the site, in the same style */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: "Aref Ruqaa", serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
