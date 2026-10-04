@@ -1,0 +1,71 @@
+site_name: Abdullah
+site_description: A unified space for my life, works, and passions.
+site_url: https://ayadabdalla.github.io/
+repo_url: https://github.com/ayadabdalla/ayadabdalla.github.io
+repo_name: ayadabdalla.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  logo: assets/hawk.svg
+  favicon: assets/hawk.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_date_format: long
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: index.md
+  - Learn:
+      - learn/index.md
+      - Artificial Vision to Artificial Touch: learn/artificial-vision-to-artificial-touch.md
+  - Journey:
+      - blog/index.md
