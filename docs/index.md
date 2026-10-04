@@ -17,6 +17,6 @@ My name is Abdullah Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَب
 
     ---
 
-    [:octicons-arrow-right-24: Read the journey](blog/index.md)
+    [:octicons-arrow-right-24: Read my journey](blog/index.md)
 
 </div>
