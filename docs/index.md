@@ -18,8 +18,21 @@ My name is Abdullah Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَب
     ---
 
     - [Cycling](hobbies/cycling.md)
+    - [Football](hobbies/football.md)
 
     [:octicons-arrow-right-24: Explore my hobbies](hobbies/index.md)
+
+-   :material-mosque: **Islam**
+
+    ---
+
+    [:octicons-arrow-right-24: Read about Islam](islam/index.md)
+
+-   :material-head-lightbulb: **Philosophy**
+
+    ---
+
+    [:octicons-arrow-right-24: Read my philosophy](philosophy/index.md)
 
 -   :material-map-marker-path: **Journey**
 

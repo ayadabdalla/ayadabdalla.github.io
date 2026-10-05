@@ -73,5 +73,10 @@ nav:
   - Hobbies:
       - hobbies/index.md
       - Cycling: hobbies/cycling.md
+      - Football: hobbies/football.md
+  - Islam:
+      - islam/index.md
+  - Philosophy:
+      - philosophy/index.md
   - Journey:
       - blog/index.md
