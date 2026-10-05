@@ -9,16 +9,11 @@ My name is Abdullah Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَب
 
     ---
 
-    - [Artificial Vision to Artificial Touch](learn/artificial-vision-to-artificial-touch.md)
-
     [:octicons-arrow-right-24: Start learning](learn/index.md)
 
 -   :material-soccer: **Hobbies**
 
     ---
-
-    - [Cycling](hobbies/cycling.md)
-    - [Football](hobbies/football.md)
 
     [:octicons-arrow-right-24: Explore my hobbies](hobbies/index.md)
 
