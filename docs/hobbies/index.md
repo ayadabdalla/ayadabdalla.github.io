@@ -7,3 +7,5 @@ I think of a human being as a generalist, every aspect of your life adds a dimen
 [Football](football.md)
 
 [Nature](nature.md)
+
+[Swimming](swimming.md)
