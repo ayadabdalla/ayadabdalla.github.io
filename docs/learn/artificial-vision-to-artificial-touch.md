@@ -4,6 +4,6 @@ We like to project our understanding of our own senses onto our environment and 
 
 With this introduction, I would like to hint to the reader that what you are about to read is human-written content about how we can morph artificial vision, created by us, into artificial touch, also created by us.
 
-Let us begin with: what do we mean by artificial vision? For our context, it is any human-made mechanism that can output multi-channel pixel grid structures; e.g: Cameras -> RGB Images. In lay terms, a two dimensional area painted with layers of colour. Computer Vision and its ancestor image processing literatures cover that in great depth by now. 
+Let us begin with: what do we mean by artificial vision? For our context, it is any human-made mechanism that can output multi-channel pixel grid structures; e.g: Cameras -> RGB Images. In lay terms, an image is a two dimensional area painted with layers of colour. Literatures such as Computer Vision and its ancestor Image Processing cover that in great depth by now. 
 
-In this guide, we do not aim to repeat those literatures, but to frame it in a way such that someone with no technical or theoretical background can enjoy and understand our discussion.
+In this guide, we do not aim to repeat those literatures, but to frame them in a way such that someone with no technical or theoretical background can enjoy and understand our discussion.
