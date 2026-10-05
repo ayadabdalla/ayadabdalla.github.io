@@ -70,10 +70,12 @@ nav:
   - Learn:
       - learn/index.md
       - Artificial Vision to Artificial Touch: learn/artificial-vision-to-artificial-touch.md
+      - Autoencoders: learn/autoencoders.md
   - Hobbies:
       - hobbies/index.md
       - Cycling: hobbies/cycling.md
       - Football: hobbies/football.md
+      - Nature: hobbies/nature.md
   - Islam:
       - islam/index.md
   - Philosophy:

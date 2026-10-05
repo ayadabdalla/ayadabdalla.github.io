@@ -5,3 +5,5 @@ I think of a human being as a generalist, every aspect of your life adds a dimen
 [Cycling](cycling.md)
 
 [Football](football.md)
+
+[Nature](nature.md)
