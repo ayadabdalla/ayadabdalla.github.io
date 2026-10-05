@@ -70,5 +70,8 @@ nav:
   - Learn:
       - learn/index.md
       - Artificial Vision to Artificial Touch: learn/artificial-vision-to-artificial-touch.md
+  - Hobbies:
+      - hobbies/index.md
+      - Cycling: hobbies/cycling.md
   - Journey:
       - blog/index.md

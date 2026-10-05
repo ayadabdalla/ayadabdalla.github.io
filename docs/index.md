@@ -13,6 +13,14 @@ My name is Abdullah Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَب
 
     [:octicons-arrow-right-24: Start learning](learn/index.md)
 
+-   :material-bike: **Hobbies**
+
+    ---
+
+    - [Cycling](hobbies/cycling.md)
+
+    [:octicons-arrow-right-24: Explore my hobbies](hobbies/index.md)
+
 -   :material-map-marker-path: **Journey**
 
     ---
