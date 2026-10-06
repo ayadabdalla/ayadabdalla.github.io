@@ -7,3 +7,7 @@ With this introduction, I would like to hint to the reader that what you are abo
 Let us begin with: what do we mean by artificial vision? For our context, it is any human-made mechanism that can output multi-channel pixel grid structures; e.g: Cameras -> RGB Images. In lay terms, an RGB image is a two dimensional area painted with layers of colour. Literatures such as Computer Vision and its ancestor Image Processing cover that in great depth by now. 
 
 In this guide, we do not aim to repeat those literatures, but to frame them in a way such that someone with no technical or theoretical background can enjoy and understand our discussion.
+
+Moving on to artificial touch, that is where the novelty comes in. Up to this day, there is no standard touch representation like the one we discussed for artificial vision. Artificial touch in our context is any mechanism that measures the interaction between two surfaces; the sensing surface and a target surface, and outputs a one dimensional to three dimensional force field. In lay terms, how much did the object press against the sensor in all directions?
+
+Touch sensors do not naturally yield those values.
