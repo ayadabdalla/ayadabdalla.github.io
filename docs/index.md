@@ -1,6 +1,6 @@
 ## About me
 
-My name is Abdullah Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَبْدُ اللَّه</span>.
+My name is Abdullah A. Ayad. Abdullah in Arabic is <span lang="ar" dir="rtl">عَبْدُ اللَّه</span>.
 
 
 <div class="grid cards" markdown>
