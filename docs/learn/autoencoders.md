@@ -1,4 +1,4 @@
-Disclaimer: This topic can be approached from a mathematical lens; especially using statistical tools, implementation lens, intuitive lens, or an abstract lens. This intro starts with an abtsract light weight discussion.
+Disclaimer: This topic can be approached from a mathematical lens; especially using statistical or probabilistic tools, implementation lens, intuitive lens, or an abstract lens. This intro starts with an abtsract light weight discussion.
 
 We all want to understand complex concepts in a simple and accesible way. For instance, when I leave my home, I usually have a single number in mind to check that I have all my important items. I check for 4 items in my bag and pockets, the wallet, my phone, my keys, and the gym band. If I added or removed items, I just have to remember that number and then check my pockets.
 
