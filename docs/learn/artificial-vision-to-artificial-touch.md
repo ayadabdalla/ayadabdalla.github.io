@@ -10,4 +10,4 @@ In this guide, we do not aim to repeat those literatures, but to frame them in a
 
 Moving on to artificial touch, that is where the novelty comes in. Up to this day, there is no standard touch representation like the one we discussed for artificial vision. Artificial touch in our context is any mechanism that measures the interaction between two surfaces; the sensing surface and a target surface, and outputs a one dimensional to three dimensional force field. In lay terms, how much did the object press against the sensor in all directions?
 
-Touch sensors do not naturally yield those values.
+Touch sensors do not naturally yield those values. Those sensors mechanisms are based on physical phenomena such as capacitance, magnetism, or optics. When one presses against the sensor surface, they change the measurments of one of those values depending on the sensor. Post processing yields different representations, unlike the image example for artificial vision.
