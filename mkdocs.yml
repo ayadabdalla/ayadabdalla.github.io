@@ -36,6 +36,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
 plugins:
   - search
   - blog:
@@ -57,6 +61,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.superfences:
@@ -71,6 +77,7 @@ nav:
       - learn/index.md
       - Artificial Vision to Artificial Touch: learn/artificial-vision-to-artificial-touch.md
       - Autoencoders: learn/autoencoders.md
+      - Geo-Force: learn/geo-force.md
   - Hobbies:
       - hobbies/index.md
       - Cycling: hobbies/cycling.md
