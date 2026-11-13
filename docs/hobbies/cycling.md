@@ -28,4 +28,4 @@ In Nuremberg, I began choosing a starting point and an end point for each ride, 
 
 I record these rides on komoot: [my recorded rides on komoot](https://www.komoot.com/user/1972942628192/activities?type=recorded).
 
-**Recorded so far** (as of November 2026): 952 km in 55:59 hours of riding.
+**Recorded since moving to Nuremberg** (as of November 2026): 850 km in 48:50 hours of riding.
