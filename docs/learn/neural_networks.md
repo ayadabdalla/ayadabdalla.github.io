@@ -11,6 +11,7 @@ An architecture pushes the model towards learning certain concepts more efficien
 !!! example "Example: a temporal architecture"
 
     Novel Neural Network Temporal Architecture that is a combination between TCNs (Temporal Convolution Networks) and TAs (Temporal Attention) by Abdullah Ayad
+    Pre-pint: [MouldIt: Data Efficiency of Multi-Task Temporal Representation Learning in Injection Moulding](https://arxiv.org/abs/2611.13646v1)
 
     <figure markdown>
       ![Mouldit multimodal architecture](../assets/mouldit_architecture_multimodal_.png)
