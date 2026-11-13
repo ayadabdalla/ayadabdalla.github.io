@@ -8,6 +8,16 @@
   letter-spacing: 0.02em;
 }
 
+/* Larger header logo: the eagle's spread wings make it wide, so give it height */
+.md-header__button.md-logo {
+  padding: 0.2rem;
+}
+
+.md-header__button.md-logo img {
+  height: 2rem;
+  width: auto;
+}
+
 /* Page headings across the site, in the same style */
 .md-typeset h1,
 .md-typeset h2,
